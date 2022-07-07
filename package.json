@@ -1,0 +1,32 @@
+{
+  "name": "array-item-move-index",
+  "version": "1.0.0",
+  "description": "You can move or replace any index of an Array Easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shsohel/arrayIndexMove.git"
+  },
+  "keywords": [
+    "Array",
+    "Index",
+    "Move",
+    "Array",
+    "Item",
+    "Index",
+    "Change",
+    "Array",
+    "Object",
+    "Index",
+    "Change"
+  ],
+  "author": "Programmer Sohel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shsohel/arrayIndexMove/issues"
+  },
+  "homepage": "https://github.com/shsohel/arrayIndexMove#readme"
+}
