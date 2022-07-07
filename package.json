@@ -11,17 +11,9 @@
     "url": "git+https://github.com/shsohel/arrayIndexMove.git"
   },
   "keywords": [
-    "Array",
-    "Index",
-    "Move",
-    "Array",
-    "Item",
-    "Index",
-    "Change",
-    "Array",
-    "Object",
-    "Index",
-    "Change"
+    "Array Index Move",
+    "Array Item Index Change",
+    "Array Object Index Change",
   ],
   "author": "Programmer Sohel",
   "license": "ISC",
